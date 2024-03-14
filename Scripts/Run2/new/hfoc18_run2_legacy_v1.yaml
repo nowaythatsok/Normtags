@@ -1,0 +1,1131 @@
+applyto: lumi
+comments: 'rescaled file using rescaleNormtagNew.py yaml/hfoc18PAS.yaml 805.9 802.3
+  new/hfoc18_run2_legacy_v1.yaml (prev: Using 2018 FOM analysis for efficiency, and
+  VDM18 sigvis 805.9)'
+datasource: hfoc
+istypedefault: 0
+name: hfoc18_run2_legacy_v1.yaml
+since:
+- 314086:
+    comments: fill 6545   rad corr 1.008  eff_p0 0.993279504308  eff_p1 -0.00180155917951  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.34835267343602316,13.812006742615182,0.0'}
+- 314844:
+    comments: fill 6592   rad corr 1.007  eff_p0 0.993279504308  eff_p1 -0.00180155917951  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.34904487927307926,13.825722737324318,0.0'}
+- 315235:
+    comments: fill 6615   rad corr 1.007  eff_p0 0.993279504308  eff_p1 -0.00180155917951  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.34904487927307926,13.825722737324318,0.0'}
+- 315258:
+    comments: fill 6616   rad corr 1.007  eff_p0 0.995068884503  eff_p1 -0.00215343255045  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.4172189363204319,13.85062959825357,0.0'}
+- 315314:
+    comments: fill 6617   rad corr 1.007  eff_p0 0.994932182958  eff_p1 -0.0021771904834  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.421821940725365,13.848726812905882,0.0'}
+- 315334:
+    comments: fill 6618   rad corr 1.007  eff_p0 0.994922310288  eff_p1 -0.00217831164461  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.4220391612218324,13.848589392641943,0.0'}
+- 315351:
+    comments: fill 6620   rad corr 1.007  eff_p0 0.994016282368  eff_p1 -0.00230925080258  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.4474080989208473,13.835978148012689,0.0'}
+- 315356:
+    comments: fill 6621   rad corr 1.007  eff_p0 0.994136764186  eff_p1 -0.00228831934153  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.4433527121319623,13.837655166547501,0.0'}
+- 315413:
+    comments: fill 6624   rad corr 1.007  eff_p0 0.994048479154  eff_p1 -0.00230553990837  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.44668912802184446,13.836426303648773,0.0'}
+- 315483:
+    comments: fill 6628   rad corr 1.007  eff_p0 0.99389229192  eff_p1 -0.00233784482692  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.45294807667268805,13.834252291817338,0.0'}
+- 315499:
+    comments: fill 6629   rad corr 1.007  eff_p0 0.995784113307  eff_p1 -0.00254817157054  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.49369804129750233,13.860585059049134,0.0'}
+- 315538:
+    comments: fill 6633   rad corr 1.007  eff_p0 0.995038205626  eff_p1 -0.0026532990332  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5140660663563635,13.850202570798244,0.0'}
+- 315550:
+    comments: fill 6636   rad corr 1.007  eff_p0 0.995592112399  eff_p1 -0.00257578408182  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.49904785482370395,13.85791254708998,0.0'}
+- 315634:
+    comments: fill 6638   rad corr 1.007  eff_p0 0.99680924959  eff_p1 -0.00277129283147  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5369268924342513,13.87485420481472,0.0'}
+- 315680:
+    comments: fill 6639   rad corr 1.007  eff_p0 0.997399004649  eff_p1 -0.00264906897538  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5132465095861786,13.88306316298619,0.0'}
+- 315696:
+    comments: fill 6640   rad corr 1.006  eff_p0 0.997433600548  eff_p1 -0.00264204838603  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5129044708998518,13.897345452766821,0.0'}
+- 315708:
+    comments: fill 6641   rad corr 1.006  eff_p0 0.997182126587  eff_p1 -0.00268523813492  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.521288955990845,13.893841640141481,0.0'}
+- 315715:
+    comments: fill 6642   rad corr 1.006  eff_p0 1.00353918176  eff_p1 -0.00376712269084  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.7313166862405682,13.982415146909025,0.0'}
+- 315735:
+    comments: fill 6643   rad corr 1.006  eff_p0 0.982453064747  eff_p1 -0.00126186156193  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.24496691286722408,13.688620099034551,0.0'}
+- 315758:
+    comments: fill 6645   rad corr 1.006  eff_p0 1.00259592074  eff_p1 -0.00390093133114  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.7572931408049044,13.969272593594404,0.0'}
+- 315764:
+    comments: fill 6646   rad corr 1.006  eff_p0 1.00229976242  eff_p1 -0.00394256830924  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.76537618437606,13.965146189116727,0.0'}
+- 315778:
+    comments: fill 6648   rad corr 1.006  eff_p0 0.994982251008  eff_p1 -0.00298281467901  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5790578979626017,13.863190546305223,0.0'}
+- 315794:
+    comments: fill 6650   rad corr 1.006  eff_p0 0.995215540961  eff_p1 -0.00294256837541  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5712448279358303,13.866440999359305,0.0'}
+- 315836:
+    comments: fill 6654   rad corr 1.006  eff_p0 0.995156749882  eff_p1 -0.00295519289827  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5736956438450235,13.865621857105422,0.0'}
+- 315967:
+    comments: fill 6659   rad corr 1.006  eff_p0 0.995032910403  eff_p1 -0.00298081951156  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5786705733736587,13.863896388842988,0.0'}
+- 316053:
+    comments: fill 6662   rad corr 1.006  eff_p0 0.995249904013  eff_p1 -0.00294025697541  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5707961126889642,13.866919783313785,0.0'}
+- 316076:
+    comments: fill 6663   rad corr 1.005  eff_p0 0.995028961274  eff_p1 -0.00297269920411  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5782431844388729,13.877636232285742,0.0'}
+- 316104:
+    comments: fill 6666   rad corr 1.005  eff_p0 0.995022051298  eff_p1 -0.00297537138005  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5787629704708289,13.877539859081292,0.0'}
+- 316143:
+    comments: fill 6672   rad corr 1.005  eff_p0 0.998170390017  eff_p1 -0.00355906111298  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6923010672377892,13.921449635789344,0.0'}
+- 316181:
+    comments: fill 6674   rad corr 1.005  eff_p0 0.994429600205  eff_p1 -0.00289093102383  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5623378103313151,13.869276963166932,0.0'}
+- 316194:
+    comments: fill 6675   rad corr 1.005  eff_p0 0.994506130503  eff_p1 -0.00287642961878  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5595170275818646,13.870344328647738,0.0'}
+- 316210:
+    comments: fill 6677   rad corr 1.005  eff_p0 0.994755372916  eff_p1 -0.00282964948658  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5504174548518553,13.873820504417711,0.0'}
+- 316235:
+    comments: fill 6681   rad corr 1.005  eff_p0 0.994911510429  eff_p1 -0.00280131898887  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5449066661416958,13.87599814917764,0.0'}
+- 316264:
+    comments: fill 6683   rad corr 1.004  eff_p0 0.993449998939  eff_p1 -0.00303904902957  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5923275875795276,13.869414909279872,0.0'}
+- 316356:
+    comments: fill 6688   rad corr 1.004  eff_p0 0.99663230934  eff_p1 -0.00249419538511  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.48613257668409815,13.9138426946614,0.0'}
+- 316371:
+    comments: fill 6690   rad corr 1.004  eff_p0 0.995828960975  eff_p1 -0.00263981711483  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5145150631217295,13.902627261800735,0.0'}
+- 316436:
+    comments: fill 6692   rad corr 1.004  eff_p0 0.994961846385  eff_p1 -0.00279446205869  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5446562242666658,13.890521597627421,0.0'}
+- 316451:
+    comments: fill 6693   rad corr 1.004  eff_p0 0.995714274006  eff_p1 -0.00265469946987  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.517415717034215,13.901026133270785,0.0'}
+- 316460:
+    comments: fill 6694   rad corr 1.004  eff_p0 0.995959001775  eff_p1 -0.00261231793422  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.509155319612103,13.904442742955752,0.0'}
+- 316500:
+    comments: fill 6696   rad corr 1.004  eff_p0 0.994560826521  eff_p1 -0.00288040883455  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5614077297243693,13.884923016052998,0.0'}
+- 316552:
+    comments: fill 6699   rad corr 1.004  eff_p0 0.999445288317  eff_p1 5.80597064717e-05  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,0.011316160264347975,13.953114296284083,0.0'}
+- 316564:
+    comments: fill 6700   rad corr 1.004  eff_p0 0.996078777409  eff_p1 -0.00321191029999  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.626019212261539,13.906114913735374,0.0'}
+- 316585:
+    comments: fill 6702   rad corr 1.004  eff_p0 0.996250432116  eff_p1 -0.00318684347945  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.621133549280869,13.90851136079732,0.0'}
+- 316608:
+    comments: fill 6706   rad corr 1.004  eff_p0 0.994194219364  eff_p1 -0.00206124313474  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.4017477709423764,13.879804865390104,0.0'}
+- 316654:
+    comments: fill 6709   rad corr 1.004  eff_p0 0.995873834418  eff_p1 -0.00319085580468  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6219155738229041,13.903253733584943,0.0'}
+- 316696:
+    comments: fill 6710   rad corr 1.004  eff_p0 0.995894776451  eff_p1 -0.00318567967059  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6209067164505548,13.903546102312264,0.0'}
+- 316710:
+    comments: fill 6711   rad corr 1.003  eff_p0 0.995740642015  eff_p1 -0.00321383767765  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6276445341691381,13.915254068044584,0.0'}
+- 316749:
+    comments: fill 6712   rad corr 1.003  eff_p0 0.994634316034  eff_p1 -0.0029032943055  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5669971494214398,13.899793408520953,0.0'}
+- 316762:
+    comments: fill 6714   rad corr 1.003  eff_p0 0.994473209611  eff_p1 -0.00293927202716  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5740233973580822,13.897541982074138,0.0'}
+- 316869:
+    comments: fill 6719   rad corr 1.003  eff_p0 0.994190035558  eff_p1 -0.00299475403256  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5848587228869206,13.893584687620317,0.0'}
+- 316922:
+    comments: fill 6724   rad corr 1.003  eff_p0 0.993666382401  eff_p1 -0.00309302320171  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6040501423303669,13.886266751192396,0.0'}
+- 316940:
+    comments: fill 6729   rad corr 1.003  eff_p0 0.995285039184  eff_p1 -0.00328775384648  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6420799487748723,13.908887119833778,0.0'}
+- 316980:
+    comments: fill 6731   rad corr 1.003  eff_p0 0.995329842492  eff_p1 -0.00328252350463  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.641058492247687,13.909513236130001,0.0'}
+- 316989:
+    comments: fill 6733   rad corr 1.003  eff_p0 0.995427141894  eff_p1 -0.00326453788703  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6375460016634505,13.910872973652934,0.0'}
+- 317074:
+    comments: fill 6737   rad corr 1.003  eff_p0 0.984906395734  eff_p1 -0.00187111009253  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.3654173421923325,13.763847885328506,0.0'}
+- 317082:
+    comments: fill 6738   rad corr 1.003  eff_p0 0.994092759491  eff_p1 -0.00305488349388  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5966016705796321,13.892225276254344,0.0'}
+- 317165:
+    comments: fill 6740   rad corr 1.002  eff_p0 0.994134480307  eff_p1 -0.00305233183464  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5972937665563761,13.906673393495439,0.0'}
+- 317177:
+    comments: fill 6741   rad corr 1.002  eff_p0 0.994134480307  eff_p1 -0.00305233183464  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5972937665563761,13.906673393495439,0.0'}
+- 317208:
+    comments: fill 6744   rad corr 1.002  eff_p0 0.994231895726  eff_p1 -0.00303679504118  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5942534582316252,13.908036110929803,0.0'}
+- 317274:
+    comments: fill 6747   rad corr 1.002  eff_p0 0.997093707103  eff_p1 -0.00258923554053  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5066730395929141,13.948069201967941,0.0'}
+- 317287:
+    comments: fill 6749   rad corr 1.002  eff_p0 0.994585219361  eff_p1 -0.00313055103047  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6126000440601405,13.912978657961537,0.0'}
+- 317313:
+    comments: fill 6751   rad corr 1.002  eff_p0 0.994449582065  eff_p1 -0.00315444510652  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.617275742331565,13.911081265202842,0.0'}
+- 317331:
+    comments: fill 6752   rad corr 1.002  eff_p0 0.994598807906  eff_p1 -0.00313074362473  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6126377317551461,13.913168744388146,0.0'}
+- 317377:
+    comments: fill 6755   rad corr 1.002  eff_p0 0.993828252283  eff_p1 -0.00324215883682  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6344399522493507,13.902389653993481,0.0'}
+- 317386:
+    comments: fill 6757   rad corr 1.002  eff_p0 0.994243992921  eff_p1 -0.00315107058369  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6166154008079812,13.908205335264292,0.0'}
+- 317430:
+    comments: fill 6759   rad corr 1.002  eff_p0 0.994763071666  eff_p1 -0.00369342356132  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.7227454254457495,13.915466584869026,0.0'}
+- 317471:
+    comments: fill 6761   rad corr 1.001  eff_p0 0.993491288581  eff_p1 -0.00310173076561  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6081736811924882,13.911559753838116,0.0'}
+- 317505:
+    comments: fill 6762   rad corr 1.001  eff_p0 0.993497633265  eff_p1 -0.00310174765063  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6081769919329463,13.911648596503227,0.0'}
+- 317523:
+    comments: fill 6763   rad corr 1.001  eff_p0 0.9936697552  eff_p1 -0.00306925834471  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6018066321972737,13.914058768173762,0.0'}
+- 317587:
+    comments: fill 6768   rad corr 1.001  eff_p0 0.993104755735  eff_p1 -0.00315592166048  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6187991927255645,13.906147250585878,0.0'}
+- 317622:
+    comments: fill 6770   rad corr 1.001  eff_p0 0.993760554491  eff_p1 -0.00301675812865  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5915126215055262,13.915330203345196,0.0'}
+- 317634:
+    comments: fill 6772   rad corr 1.001  eff_p0 0.993866210468  eff_p1 -0.00299369956093  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5869913992999043,13.916809672214695,0.0'}
+- 317644:
+    comments: fill 6773   rad corr 1.001  eff_p0 0.993778649205  eff_p1 -0.00301112708453  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5904085112228417,13.915583578184657,0.0'}
+- 317657:
+    comments: fill 6774   rad corr 1.0  eff_p0 0.992682054049  eff_p1 -0.00285655881506  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5612222100207254,13.914128514333727,0.0'}
+- 317679:
+    comments: fill 6776   rad corr 1.0  eff_p0 0.99258555104  eff_p1 -0.00287263826447  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5643813062332804,13.91277586035337,0.0'}
+- 317690:
+    comments: fill 6778   rad corr 1.0  eff_p0 0.992354950458  eff_p1 -0.00291077145888  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.571873256172384,13.909543600770535,0.0'}
+- 318615:
+    comments: fill 6843   rad corr 1.0  eff_p0 1.0079269252  eff_p1 -0.000977359899567  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.19201988067917206,14.127811329923084,0.0'}
+- 318647:
+    comments: fill 6847   rad corr 1.0  eff_p0 0.99925365523  eff_p1 2.4442575856e-05  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,0.004802182390981662,14.006240689629864,0.0'}
+- 318707:
+    comments: fill 6850   rad corr 1.0  eff_p0 0.994317654966  eff_p1 -0.00198617628848  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.3902199528445083,13.937054244943962,0.0'}
+- 318811:
+    comments: fill 6854   rad corr 1.0  eff_p0 0.992077550774  eff_p1 -0.00237971764903  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.4675382110708419,13.905655372037119,0.0'}
+- 318821:
+    comments: fill 6858   rad corr 1.0  eff_p0 0.992210059161  eff_p1 -0.00236156803578  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.4639723940453709,13.907512702635922,0.0'}
+- 318865:
+    comments: fill 6860   rad corr 1.0  eff_p0 0.998404752053  eff_p1 -0.00356450871743  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.7003116650309531,13.994341866727982,0.0'}
+- 318931:
+    comments: fill 6864   rad corr 1.0  eff_p0 1.077645595  eff_p1 -1.0848874321  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-213.14559289178422,15.10503714715139,0.0'}
+- 318974:
+    comments: fill 6868   rad corr 1.0  eff_p0 1.084390472  eff_p1 -0.010618814  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-2.0862564528513676,15.199578077932992,0.0'}
+- 318975:
+    comments: fill 6868   rad corr 1.0  eff_p0 1.093681151  eff_p1 -1.461004488  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-287.04053397487655,15.329802756696061,0.0'}
+- 319072:
+    comments: fill 6874   rad corr 1.0  eff_p0 1.00170486643  eff_p1 -0.004278197389  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.840528604172002,14.040598586460701,0.0'}
+- 319092:
+    comments: fill 6877   rad corr 1.0  eff_p0 0.968443271239  eff_p1 0.489442117342  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,96.15968182540227,13.57438071928883,0.0'}
+- 319116:
+    comments: fill 6879   rad corr 1.0  eff_p0 0.965029882853  eff_p1 0.719850213623  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,141.4274845813696,13.526536271486764,0.0'}
+- 319153:
+    comments: fill 6881   rad corr 1.0  eff_p0 0.97296703252  eff_p1 0.481685444203  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,94.63574427561993,13.63778893299646,0.0'}
+- 319168:
+    comments: fill 6882   rad corr 1.0  eff_p0 0.970270955518  eff_p1 0.618774865198  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,121.56941965284102,13.59999882508837,0.0'}
+- 319182:
+    comments: fill 6884   rad corr 1.0  eff_p0 0.980091248335  eff_p1 0.273984906786  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,53.82924870582365,13.737646942865263,0.0'}
+- 319215:
+    comments: fill 6885   rad corr 1.0  eff_p0 0.97975074779  eff_p1 0.264935147882  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,52.05126126670776,13.732874248173351,0.0'}
+- 319288:
+    comments: fill 6891   rad corr 1.0  eff_p0 0.975399578032  eff_p1 0.376268953203  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,73.92478403220656,13.671885198405223,0.0'}
+- 319304:
+    comments: fill 6892   rad corr 1.0  eff_p0 0.975979795692  eff_p1 0.402619028514  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,79.10172890106917,13.68001793649737,0.0'}
+- 319333:
+    comments: fill 6901   rad corr 1.0  eff_p0 0.997289666099  eff_p1 -0.00281162162706  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.552393493514442,13.978712039221588,0.0'}
+- 319341:
+    comments: fill 6904   rad corr 1.0  eff_p0 0.995957574404  eff_p1 -0.0030437413203  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5979975701889951,13.960040506951303,0.0'}
+- 319482:
+    comments: fill 6911   rad corr 1.0  eff_p0 0.981358723849  eff_p1 -0.00105968374357  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.20819387626559058,13.75541276939778,0.0'}
+- 319519:
+    comments: fill 6912   rad corr 1.0  eff_p0 0.993652595599  eff_p1 -0.00311439263399  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6118782878554875,13.927732305925316,0.0'}
+- 319553:
+    comments: fill 6913   rad corr 0.999  eff_p0 1.00499448768  eff_p1 -0.000996591409091  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.1961904403218831,14.100809036179223,0.0'}
+- 319621:
+    comments: fill 6921   rad corr 0.999  eff_p0 0.991961573907  eff_p1 -0.00303807721508  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5980803176911669,13.917947706577316,0.0'}
+- 319635:
+    comments: fill 6923   rad corr 0.999  eff_p0 0.992379899554  eff_p1 -0.00295349464241  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5814292689019123,13.92381712188103,0.0'}
+- 319652:
+    comments: fill 6924   rad corr 0.999  eff_p0 0.992395371058  eff_p1 -0.0029523014658  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5811943784123639,13.92403419847421,0.0'}
+- 319671:
+    comments: fill 6925   rad corr 0.999  eff_p0 0.992105187261  eff_p1 -0.00299802939018  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5901964443909461,13.919962707096397,0.0'}
+- 319683:
+    comments: fill 6927   rad corr 0.999  eff_p0 0.99141636914  eff_p1 -0.00310692920198  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6116346203916179,13.910298084189815,0.0'}
+- 319693:
+    comments: fill 6929   rad corr 0.999  eff_p0 1.00321814961  eff_p1 -0.00400736608027  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.7888959393451053,14.07588571150551,0.0'}
+- 319751:
+    comments: fill 6931   rad corr 0.999  eff_p0 0.992694728005  eff_p1 -0.00311265153527  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6127611272801486,13.928234395788584,0.0'}
+- 319834:
+    comments: fill 6939   rad corr 0.999  eff_p0 0.995844758802  eff_p1 -0.00260183610692  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5122012560063454,13.972431635911654,0.0'}
+- 319840:
+    comments: fill 6940   rad corr 0.999  eff_p0 0.9928760402  eff_p1 -0.00315554666314  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6212055248009078,13.93077833872277,0.0'}
+- 319900:
+    comments: fill 6942   rad corr 0.999  eff_p0 0.992739717604  eff_p1 -0.00318383491367  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6267743911159173,13.928865632759143,0.0'}
+- 319937:
+    comments: fill 6944   rad corr 0.998  eff_p0 0.992654973723  eff_p1 -0.00319366552706  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6299702304554508,13.941632201831297,0.0'}
+- 319946:
+    comments: fill 6946   rad corr 0.998  eff_p0 0.992788662018  eff_p1 -0.00317430700092  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6261516417305306,13.943509826082973,0.0'}
+- 319987:
+    comments: fill 6953   rad corr 0.998  eff_p0 0.992685267063  eff_p1 -0.0031945215271  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6301390817452475,13.942057665501109,0.0'}
+- 319997:
+    comments: fill 6956   rad corr 0.998  eff_p0 0.991707713657  eff_p1 -0.00293231723617  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5784176675324489,13.928328131611703,0.0'}
+- 320019:
+    comments: fill 6957   rad corr 0.998  eff_p0 0.991771823751  eff_p1 -0.00292298716274  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.576577252980388,13.929228544506044,0.0'}
+- 320034:
+    comments: fill 6960   rad corr 0.998  eff_p0 0.991568589059  eff_p1 -0.0029638133673  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.58463047373227,13.926374155692896,0.0'}
+- 320054:
+    comments: fill 6961   rad corr 0.998  eff_p0 0.991604058951  eff_p1 -0.00295629744969  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5831479126096283,13.926872322933592,0.0'}
+- 320565:
+    comments: fill 7003   rad corr 0.998  eff_p0 1.00280216901  eff_p1 -0.000588377820876  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.11606115551915086,14.084147444625602,0.0'}
+- 320669:
+    comments: fill 7005   rad corr 0.998  eff_p0 0.995170680134  eff_p1 -0.00221523775576  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.43696931556695473,13.97696477399089,0.0'}
+- 320682:
+    comments: fill 7006   rad corr 0.998  eff_p0 0.992945473533  eff_p1 -0.00268455601292  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5295452375343717,13.945712211159268,0.0'}
+- 320708:
+    comments: fill 7008   rad corr 0.998  eff_p0 0.990872694846  eff_p1 -0.00303402874091  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5984808894121157,13.916600466481079,0.0'}
+- 320751:
+    comments: fill 7013   rad corr 0.998  eff_p0 0.990970889057  eff_p1 -0.00301811110579  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.595341037671795,13.917979583674075,0.0'}
+- 320800:
+    comments: fill 7017   rad corr 0.998  eff_p0 0.992080635743  eff_p1 -0.00320239023781  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6316912334835172,13.93356574461952,0.0'}
+- 320814:
+    comments: fill 7018   rad corr 0.997  eff_p0 0.991231265497  eff_p1 -0.00296771755604  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5865755121498255,13.935600043646104,0.0'}
+- 320832:
+    comments: fill 7020   rad corr 0.997  eff_p0 0.991254593192  eff_p1 -0.00296427561265  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.585895204920822,13.935928004867069,0.0'}
+- 320847:
+    comments: fill 7024   rad corr 0.997  eff_p0 0.991124023532  eff_p1 -0.00299441391129  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5918521019724856,13.934092341858594,0.0'}
+- 320880:
+    comments: fill 7026   rad corr 0.997  eff_p0 0.990949491707  eff_p1 -0.00302113824984  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5971342227519593,13.931638620147615,0.0'}
+- 320910:
+    comments: fill 7031   rad corr 0.997  eff_p0 0.99097197808  eff_p1 -0.00301815312164  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5965442059902983,13.931954753332082,0.0'}
+- 320929:
+    comments: fill 7033   rad corr 0.997  eff_p0 0.991078798877  eff_p1 -0.00299359987171  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5916912053659794,13.933456533969489,0.0'}
+- 320967:
+    comments: fill 7035   rad corr 0.997  eff_p0 0.990732064119  eff_p1 -0.00304356607171  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6015671281255323,13.928581832105884,0.0'}
+- 320989:
+    comments: fill 7036   rad corr 0.997  eff_p0 0.994532214087  eff_p1 -0.00242055939831  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.478428570758779,13.982007679228293,0.0'}
+- 320998:
+    comments: fill 7037   rad corr 0.997  eff_p0 0.991572378635  eff_p1 -0.00316092610666  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6247635817316814,13.940395711862022,0.0'}
+- 321046:
+    comments: fill 7039   rad corr 0.996  eff_p0 0.989610830712  eff_p1 -0.00277919597964  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5504174262741088,13.92678724106818,0.0'}
+- 321062:
+    comments: fill 7040   rad corr 0.996  eff_p0 0.991906565229  eff_p1 -0.00318432182751  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6306522597058221,13.959095098961374,0.0'}
+- 321115:
+    comments: fill 7042   rad corr 0.996  eff_p0 0.991549152272  eff_p1 -0.00326227665308  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6460911473450673,13.954065228651714,0.0'}
+- 321128:
+    comments: fill 7043   rad corr 0.996  eff_p0 0.983131302049  eff_p1 -0.00257348076547  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5096757011282987,13.835600873305646,0.0'}
+- 321143:
+    comments: fill 7045   rad corr 0.996  eff_p0 0.990829421533  eff_p1 -0.00300637110706  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5954092691892091,13.943936462290576,0.0'}
+- 321156:
+    comments: fill 7047   rad corr 0.996  eff_p0 0.990623942351  eff_p1 -0.0030452117573  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6031016273021073,13.9410447549736,0.0'}
+- 321171:
+    comments: fill 7048   rad corr 0.996  eff_p0 0.990503774598  eff_p1 -0.00306526954816  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6070740559118128,13.939353634946642,0.0'}
+- 321213:
+    comments: fill 7052   rad corr 0.996  eff_p0 0.99047376592  eff_p1 -0.00306919996347  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6078524713578015,13.938931322955552,0.0'}
+- 321225:
+    comments: fill 7053   rad corr 0.996  eff_p0 0.99057299512  eff_p1 -0.00305246851347  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6045388217581902,13.940327774883771,0.0'}
+- 321254:
+    comments: fill 7054   rad corr 0.995  eff_p0 0.989268820425  eff_p1 -0.00330056474431  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6549886496022891,13.935966066088657,0.0'}
+- 321275:
+    comments: fill 7055   rad corr 0.995  eff_p0 0.990532138039  eff_p1 -0.00306462084872  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6081661857126086,13.953762595271618,0.0'}
+- 321301:
+    comments: fill 7056   rad corr 0.995  eff_p0 0.990532138039  eff_p1 -0.00306462084872  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6081661857126086,13.953762595271618,0.0'}
+- 321386:
+    comments: fill 7058   rad corr 0.995  eff_p0 0.990379464918  eff_p1 -0.00310644538742  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6164661586702317,13.951611867953398,0.0'}
+- 321410:
+    comments: fill 7061   rad corr 0.995  eff_p0 0.989931304506  eff_p1 -0.00300181117724  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5957017667138752,13.945298570603963,0.0'}
+- 321425:
+    comments: fill 7063   rad corr 0.995  eff_p0 0.989910799098  eff_p1 -0.00300608598585  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5965500915722964,13.945009708038864,0.0'}
+- 321453:
+    comments: fill 7065   rad corr 0.995  eff_p0 0.989822322591  eff_p1 -0.00302667060162  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.600635056034183,13.943763327286911,0.0'}
+- 321471:
+    comments: fill 7069   rad corr 0.994  eff_p0 0.989728367745  eff_p1 -0.00304401586864  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6052932384394379,13.956466371891748,0.0'}
+- 321705:
+    comments: fill 7078   rad corr 0.994  eff_p0 0.988978864701  eff_p1 -0.00317327818592  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6309966545876439,13.945897397195562,0.0'}
+- 321722:
+    comments: fill 7080   rad corr 0.994  eff_p0 0.989663909483  eff_p1 -0.0030250002894  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6015120487100108,13.955557425879498,0.0'}
+- 321750:
+    comments: fill 7083   rad corr 0.994  eff_p0 0.98949144881  eff_p1 -0.00306503946534  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6094737162946459,13.95312550455204,0.0'}
+- 321768:
+    comments: fill 7087   rad corr 0.994  eff_p0 0.989478248991  eff_p1 -0.00306960198599  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6103809595609668,13.952939369777678,0.0'}
+- 321790:
+    comments: fill 7088   rad corr 0.994  eff_p0 0.989358378266  eff_p1 -0.00308413016119  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6132698427322247,13.951249035560975,0.0'}
+- 321799:
+    comments: fill 7090   rad corr 0.994  eff_p0 0.989418582055  eff_p1 -0.00307002287104  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6104646512649008,13.952097987878062,0.0'}
+- 321823:
+    comments: fill 7091   rad corr 0.994  eff_p0 0.989554694436  eff_p1 -0.00303589545404  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6036785188505657,13.95401735067815,0.0'}
+- 321873:
+    comments: fill 7092   rad corr 0.993  eff_p0 0.989344955907  eff_p1 -0.00307306433132  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6123008101997244,13.965109168342877,0.0'}
+- 321882:
+    comments: fill 7095   rad corr 0.993  eff_p0 0.989373437035  eff_p1 -0.00306858132161  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6114075811018923,13.965511194013846,0.0'}
+- 321902:
+    comments: fill 7097   rad corr 0.993  eff_p0 0.989185944949  eff_p1 -0.00311056395413  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6197725214792522,13.962864647443524,0.0'}
+- 321909:
+    comments: fill 7098   rad corr 0.993  eff_p0 0.991428498701  eff_p1 -0.00351273356842  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6999038673012322,13.994519438651613,0.0'}
+- 321927:
+    comments: fill 7099   rad corr 0.993  eff_p0 0.99153832997  eff_p1 -0.00349473175391  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6963170482766576,13.996069763036633,0.0'}
+- 321954:
+    comments: fill 7101   rad corr 0.993  eff_p0 0.991794183471  eff_p1 -0.00345571911253  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6885438716196213,13.99968126581988,0.0'}
+- 321967:
+    comments: fill 7105   rad corr 0.993  eff_p0 0.988889204475  eff_p1 -0.00304540677614  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.606790107649609,13.958676004141568,0.0'}
+- 321983:
+    comments: fill 7108   rad corr 0.993  eff_p0 0.988903114805  eff_p1 -0.00303942260582  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6055977758464981,13.958872355554218,0.0'}
+- 322008:
+    comments: fill 7109   rad corr 0.993  eff_p0 0.987754437546  eff_p1 -0.00325053303388  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6476610300469187,13.942658189575457,0.0'}
+- 322016:
+    comments: fill 7110   rad corr 0.993  eff_p0 0.988613136473  eff_p1 -0.00305913909698  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6095262401444551,13.954779163337554,0.0'}
+- 322036:
+    comments: fill 7112   rad corr 0.993  eff_p0 0.987274484671  eff_p1 -0.00328486101949  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6545008001056015,13.935883409758246,0.0'}
+- 322052:
+    comments: fill 7114   rad corr 0.993  eff_p0 0.987580542605  eff_p1 -0.00323476535779  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6445193578255451,13.940203573770509,0.0'}
+- 322063:
+    comments: fill 7117   rad corr 0.993  eff_p0 0.988505333471  eff_p1 -0.00308098808297  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6138795990019468,13.953257468944297,0.0'}
+- 322075:
+    comments: fill 7118   rad corr 0.992  eff_p0 0.988614254039  eff_p1 -0.0030627777743  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6114822033785332,13.968862271964927,0.0'}
+- 322102:
+    comments: fill 7120   rad corr 0.992  eff_p0 0.988632396175  eff_p1 -0.00306062319074  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6110520417414456,13.969118615666458,0.0'}
+- 322106:
+    comments: fill 7122   rad corr 0.992  eff_p0 0.988577213884  eff_p1 -0.00307080079712  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6130839962718201,13.968338904252326,0.0'}
+- 322174:
+    comments: fill 7123   rad corr 0.992  eff_p0 0.988489133653  eff_p1 -0.00308643653856  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.616205665009008,13.967094353474971,0.0'}
+- 322197:
+    comments: fill 7124   rad corr 0.992  eff_p0 0.988437163143  eff_p1 -0.00309421308229  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.617758248462656,13.966360023683063,0.0'}
+- 322248:
+    comments: fill 7125   rad corr 0.992  eff_p0 0.988323450862  eff_p1 -0.00311570249614  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.622048600260366,13.964753298753683,0.0'}
+- 322313:
+    comments: fill 7127   rad corr 0.992  eff_p0 0.988269276068  eff_p1 -0.00312319741908  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6235449582504411,13.963987823031173,0.0'}
+- 322327:
+    comments: fill 7128   rad corr 0.992  eff_p0 0.988455110746  eff_p1 -0.00308772759934  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6164634247123032,13.966613618706095,0.0'}
+- 322343:
+    comments: fill 7131   rad corr 0.991  eff_p0 0.98828276428  eff_p1 -0.00311916870666  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6239980541198614,13.978269405351538,0.0'}
+- 322350:
+    comments: fill 7132   rad corr 0.991  eff_p0 0.988312445174  eff_p1 -0.00311232235641  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6226284234156257,13.978689211850456,0.0'}
+- 322377:
+    comments: fill 7133   rad corr 0.991  eff_p0 0.98825711913  eff_p1 -0.003122959026  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6247563176555713,13.977906680338789,0.0'}
+- 322402:
+    comments: fill 7135   rad corr 0.991  eff_p0 0.988179195241  eff_p1 -0.00313769035907  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6277033602923983,13.976804525049982,0.0'}
+- 322425:
+    comments: fill 7137   rad corr 0.991  eff_p0 0.98717415332  eff_p1 -0.00297786336141  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.595729541332165,13.962589214167805,0.0'}
+- 322476:
+    comments: fill 7139   rad corr 0.991  eff_p0 0.987208929897  eff_p1 -0.00297146741072  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5944500142658452,13.9630810940224,0.0'}
+- 322506:
+    comments: fill 7142   rad corr 0.991  eff_p0 0.978158133942  eff_p1 -0.00159201589992  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.31848704482012946,13.835066654420254,0.0'}
+- 322595:
+    comments: fill 7144   rad corr 0.991  eff_p0 0.987989617  eff_p1 -0.00317348655386  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6348644849371039,13.9741231308132,0.0'}
+- 322621:
+    comments: fill 7145   rad corr 0.991  eff_p0 0.987820728022  eff_p1 -0.00320640568721  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6414500457336795,13.971734365465897,0.0'}
+- 323355:
+    comments: fill 7211   rad corr 0.991  eff_p0 0.99608828917  eff_p1 -0.001529965609  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.3060737179264082,14.088670733507927,0.0'}
+- 323383:
+    comments: fill 7212   rad corr 0.991  eff_p0 0.993178748664  eff_p1 -0.00202301638884  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.40470984701560586,14.047518198451264,0.0'}
+- 323406:
+    comments: fill 7213   rad corr 0.991  eff_p0 0.990423307403  eff_p1 -0.00247266916047  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.494664088325751,14.008545242897133,0.0'}
+- 323466:
+    comments: fill 7217   rad corr 0.991  eff_p0 0.987579312148  eff_p1 -0.00305920236424  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6120016267052784,13.968319779822437,0.0'}
+- 323483:
+    comments: fill 7218   rad corr 0.99  eff_p0 0.987718825829  eff_p1 -0.00303060392803  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6075058604893283,13.984404468117202,0.0'}
+- 323509:
+    comments: fill 7220   rad corr 0.99  eff_p0 0.999324739717  eff_p1 -2.18011862148e-05  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.004370201024491632,14.148724302632132,0.0'}
+- 323518:
+    comments: fill 7221   rad corr 0.99  eff_p0 0.987296319425  eff_p1 -0.00299843013317  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6010563971497629,13.9784225021434,0.0'}
+- 323685:
+    comments: fill 7234   rad corr 0.99  eff_p0 0.988399413974  eff_p1 -0.00339541533479  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6806348713547087,13.994040428988882,0.0'}
+- 323719:
+    comments: fill 7236   rad corr 0.99  eff_p0 0.98872846373  eff_p1 -0.00332411727092  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6663426732744743,13.998699209118124,0.0'}
+- 323750:
+    comments: fill 7239   rad corr 0.99  eff_p0 0.988610085118  eff_p1 -0.00334523226433  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.67057532212711,13.99702317106317,0.0'}
+- 323771:
+    comments: fill 7240   rad corr 0.99  eff_p0 0.988674857731  eff_p1 -0.00332967015943  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6674557888093852,13.997940240161697,0.0'}
+- 323786:
+    comments: fill 7242   rad corr 0.99  eff_p0 0.988538124234  eff_p1 -0.00335353878051  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6722404216849022,13.996004328336197,0.0'}
+- 323837:
+    comments: fill 7245   rad corr 0.99  eff_p0 0.988445548451  eff_p1 -0.00337124657087  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6757900727363533,13.994693614002568,0.0'}
+- 323935:
+    comments: fill 7252   rad corr 0.989  eff_p0 0.988339709236  eff_p1 -0.0033896986952  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6808637183354749,14.0073439445307,0.0'}
+- 323971:
+    comments: fill 7253   rad corr 0.989  eff_p0 0.988341511672  eff_p1 -0.00338563652748  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6800477807361448,14.007369489742578,0.0'}
+- 324017:
+    comments: fill 7256   rad corr 0.989  eff_p0 0.986817385475  eff_p1 -0.00307388539245  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6174286348826699,13.985768657928755,0.0'}
+- 324072:
+    comments: fill 7259   rad corr 0.989  eff_p0 0.986676710836  eff_p1 -0.00310382972634  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6234433318659608,13.983774932446442,0.0'}
+- 324196:
+    comments: fill 7264   rad corr 0.989  eff_p0 0.986435605844  eff_p1 -0.00317111537211  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6369585021186542,13.980357847639075,0.0'}
+- 324232:
+    comments: fill 7265   rad corr 0.989  eff_p0 0.986414057871  eff_p1 -0.00317515646772  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6377702071199437,13.980052456841443,0.0'}
+- 324241:
+    comments: fill 7266   rad corr 0.989  eff_p0 0.986613810318  eff_p1 -0.00313069027258  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6288386112206662,13.98288346852767,0.0'}
+- 324288:
+    comments: fill 7270   rad corr 0.989  eff_p0 0.986519593616  eff_p1 -0.00315019457253  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.632756295765216,13.981548172787535,0.0'}
+- 324306:
+    comments: fill 7271   rad corr 0.988  eff_p0 0.986427845241  eff_p1 -0.00316627881492  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6372750932747175,13.994397908168205,0.0'}
+- 324412:
+    comments: fill 7274   rad corr 0.988  eff_p0 0.986146618449  eff_p1 -0.00321798824074  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6476826192978771,13.990408159037543,0.0'}
+- 324558:
+    comments: fill 7299   rad corr 0.988  eff_p0 0.7176  eff_p1 53.71  eff_p2 -3459.0
+    func: poly1d
+    payload: {'coefs': '-9876822.457815362,10810.180423336595,10.180551965704675,0.0'}
+- 324566:
+    comments: fill 7300   rad corr 0.988  eff_p0 0.7598  eff_p1 39.52  eff_p2 -2206.0
+    func: poly1d
+    payload: {'coefs': '-6299008.482779706,7954.167386506243,10.779241058488994,0.0'}
+- 324608:
+    comments: fill 7304   rad corr 0.988  eff_p0 0.998355848997  eff_p1 -0.00213793575266  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.43030108396388467,14.163619845347638,0.0'}
+- 324721:
+    comments: fill 7308   rad corr 0.988  eff_p0 0.995737590902  eff_p1 -0.00256614787117  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5164870876971153,14.126474760895102,0.0'}
+- 324742:
+    comments: fill 7309   rad corr 0.988  eff_p0 0.986344195705  eff_p1 -0.00321175782929  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.64642862801351,13.99321117677324,0.0'}
+- 324780:
+    comments: fill 7310   rad corr 0.988  eff_p0 0.986548176875  eff_p1 -0.00315838778538  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6356868703542905,13.996105046550044,0.0'}
+- 324828:
+    comments: fill 7314   rad corr 0.988  eff_p0 0.985309529463  eff_p1 -0.00295843066235  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5954416166424649,13.978532423367605,0.0'}
+- 324874:
+    comments: fill 7315   rad corr 0.988  eff_p0 0.985289879141  eff_p1 -0.00296350476392  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.5964628781108657,13.978253645350742,0.0'}
+- 324891:
+    comments: fill 7317   rad corr 0.988  eff_p0 0.984896810284  eff_p1 -0.00302541130084  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6089227707468943,13.97267719895539,0.0'}
+- 324963:
+    comments: fill 7320   rad corr 0.988  eff_p0 0.985086381669  eff_p1 -0.00298255838994  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6002977903239111,13.975366637828007,0.0'}
+- 324975:
+    comments: fill 7321   rad corr 0.988  eff_p0 0.985033631802  eff_p1 -0.00299345831565  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6024916120245487,13.974618278364776,0.0'}
+- 324989:
+    comments: fill 7324   rad corr 0.987  eff_p0 0.985088013489  eff_p1 -0.00298748266255  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6025079302527866,13.989549251148361,0.0'}
+- 325018:
+    comments: fill 7328   rad corr 0.987  eff_p0 0.984938123871  eff_p1 -0.00302140991886  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6093502933017907,13.987420620838702,0.0'}
+- 325052:
+    comments: fill 7331   rad corr 0.987  eff_p0 0.984576787442  eff_p1 -0.00308082296356  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6213325655469807,13.982289166949556,0.0'}
+- 325091:
+    comments: fill 7333   rad corr 0.987  eff_p0 0.984801207999  eff_p1 -0.00303094433843  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6112731708710801,13.98547623485868,0.0'}
+- 325153:
+    comments: fill 7334   rad corr 0.987  eff_p0 0.984757559794  eff_p1 -0.00304006750407  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,-0.6131131077904487,13.984856372800486,0.0'}
+- 325303:
+    comments: fill 7358   rad corr 0.987  eff_p0 0.975142328172  eff_p1 0.000545866418888  eff_p2
+      0.0
+    func: poly1d
+    payload: {'coefs': '0.0,0.11008895561547187,13.848307400065462,0.0'}

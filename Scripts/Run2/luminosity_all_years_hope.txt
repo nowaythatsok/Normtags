@@ -1,0 +1,40 @@
+# This input file contains the luminosity from either final (LUM-17-003) or preliminary (LUM-17-004, LUM-18-002) calibrations
+# and the correlation scheme as presented by Gabi here:
+# https://indico.cern.ch/event/833744/contributions/3493738/attachments/1877010/3091250/Proposal_for_Lumi_POG_recommendation_on_combination_of_different_data_taking_periods1.pdf
+
+Description,                   Corr,2015,2016,2017,2018
+# Pick one of these lines -- top is delivered, middle i recorded with nonlegacy golden JSON, bottom is recorded with legacy golden JSON
+#Luminosity,                    -,   4.13,41.58,49.79,67.86
+#Luminosity,                    -,   2.27,36.29,41.53,59.74
+Luminosity,                    -,    2.27,36.33,41.48,59.83
+
+# Normalization
+###
+X-Y factorization,             C,   0.5, 0.5, 0.4, 0.4
+###
+Length scale,                  C,   0.2, 0.3, 0.2, 0.2
+Orbit drift Syst,              C,   0.8, 0.5, 0.0, 0.0
+Orbit drift Rand,              U,   0.2, 0.1, 0.2, 0.1
+Beam-beam effects (15-16),     C,   0.5, 0.5, 0.0, 0.0
+Beam-beam effects (17-18),     C,   0.0, 0.0, 0.3, 0.2
+Beam current calibration,      C,   0.2, 0.2, 0.3, 0.2
+Ghosts and satellites,         C,   0.1, 0.1, 0.1, 0.1
+####
+Scan to scan variation,        U,   0.5, 0.2, 0.4, 0.3
+Bunch to bunch variation,      U,   0.0, 0.0, 0.1, 0.1
+Cross-detector consistency,    U,   0.0, 0.0, 0.6, 0.5
+###
+Background subtraction,        U,   0.0, 0.0, 0.1, 0.1
+
+# Integration
+PCC afterglow type 1 (15-16),  C,   0.3, 0.3, 0.0, 0.0
+PCC afterglow type 2 (15-16),  C,   0.1, 0.3, 0.0, 0.0
+HF afterglow type 1 (17-18),   U,   0.0, 0.0, 0.2, 0.1
+HF afterglow type 2 (17-18),   U,   0.0, 0.0, 0.3, 0.4
+####
+Cross-detector stability,      U,   0.6, 0.5, 0.4, 0.4
+PCC linearity (15-16),         C,   0.5, 0.3, 0.0, 0.0
+####
+HF linearity (17-18),          U,   0.0, 0.0, 0.8, 0.8
+CMS deadtime,                  U,   0.5, 0.1, 0.0, 0.1
+

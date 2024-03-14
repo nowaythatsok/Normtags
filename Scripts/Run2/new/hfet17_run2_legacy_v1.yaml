@@ -1,0 +1,69 @@
+applyto: lumi
+comments: 'rescaled file using rescaleNormtagNew.py yaml/hfet17v11.yaml 2630.0 2601.2
+  new/hfet17_run2_legacy_v1.yaml (prev: Using non-linearity corrections from emittance
+  scans (averaging over leading, trains) and VDM 2630.0 sigvis0 and efficiecny corrections
+  vs integrated lumi (event 0.1%))'
+datasource: hfet
+istypedefault: 0
+name: hfet17_run2_legacy_v1.yaml
+since:
+- 294001:
+    comments: fill  5838 , sigvis 2630.0 ,  eff  1.003 ,  slope  0.21
+    func: poly1d
+    payload: {'coefs': '0.039019901276239416,4.310300246040289,0.0'}
+- 297281:
+    comments: fill  5856 , sigvis 2630.0 ,  eff  1.002 ,  slope  0.21
+    func: poly1d
+    payload: {'coefs': '0.03909145991101376,4.314607411963709,0.0'}
+- 297656:
+    comments: fill  5882 , sigvis 2630.0 ,  eff  1.001 ,  slope  0.21
+    func: poly1d
+    payload: {'coefs': '0.039173241207898724,4.31891457788713,0.0'}
+- 299649:
+    comments: fill  5984 , sigvis 2630.0 ,  eff  1.0 ,  slope  0.21
+    func: poly1d
+    payload: {'coefs': '0.03924479984267307,4.32323185452868,0.0'}
+- 300514:
+    comments: fill  6050 , sigvis 2630.0 ,  eff  0.999 ,  slope  0.21
+    func: poly1d
+    payload: {'coefs': '0.03932658113955803,4.327559241888359,0.0'}
+- 301323:
+    comments: fill  6091 , sigvis 2630.0 ,  eff  0.998 ,  slope  0.21
+    func: poly1d
+    payload: {'coefs': '0.039408362436443,4.33189673996617,0.0'}
+- 302228:
+    comments: fill  6159 , sigvis 2630.0 ,  eff  0.997 ,  slope  0.21
+    func: poly1d
+    payload: {'coefs': '0.039490143733327966,4.33624434876211,0.0'}
+- 302322:
+    comments: fill  6167 , sigvis 2630.0 ,  eff  0.997 ,  slope  0.25
+    func: poly1d
+    payload: {'coefs': '0.04700380038463422,4.33624434876211,0.0'}
+- 302646:
+    comments: fill  6192 , sigvis 2630.0 ,  eff  0.996 ,  slope  0.25
+    func: poly1d
+    payload: {'coefs': '0.04710602700574043,4.340602068276181,0.0'}
+- 304158:
+    comments: fill  6258 , sigvis 2630.0 ,  eff  0.995 ,  slope  0.25
+    func: poly1d
+    payload: {'coefs': '0.047198030964736015,4.344959787790251,0.0'}
+- 304654:
+    comments: fill  6283 , sigvis 2630.0 ,  eff  0.994 ,  slope  0.25
+    func: poly1d
+    payload: {'coefs': '0.04729003492373161,4.349327618022452,0.0'}
+- 305112:
+    comments: fill  6303 , sigvis 2630.0 ,  eff  0.993 ,  slope  0.25
+    func: poly1d
+    payload: {'coefs': '0.04738203888272719,4.353715669690913,0.0'}
+- 305376:
+    comments: fill  6315 , sigvis 2630.0 ,  eff  0.992 ,  slope  0.25
+    func: poly1d
+    payload: {'coefs': '0.047484265503833396,4.358103721359373,0.0'}
+- 305898:
+    comments: fill  6348 , sigvis 2630.0 ,  eff  0.991 ,  slope  0.25
+    func: poly1d
+    payload: {'coefs': '0.04757626946282898,4.3625018837459635,0.0'}
+- 307042:
+    comments: fill  6413 , sigvis 2630.0 ,  eff  0.99 ,  slope  0.25
+    func: poly1d
+    payload: {'coefs': '0.04767849608393519,4.366900046132554,0.0'}

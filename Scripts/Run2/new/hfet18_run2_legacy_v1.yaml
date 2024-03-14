@@ -1,0 +1,866 @@
+applyto: lumi
+comments: 'rescaled file using rescaleNormtagNew.py yaml/hfet18PAS.yaml 2503.6 2500.0 new/hfet18_run2_legacy_v1.yaml (prev: Using  2018 emit FOM analysis for efficiency, VDM18 sigvis 2503.6, early 2017 emit for linearity, Jingyu's effective corrections for precision afterglow)'
+datasource: hfet
+istypedefault: 0
+name: hfet18_run2_legacy_v1.yaml
+since:
+- 314086:
+    comments: fill 6545   rad corr 1.015  eff_p0 1.0  eff_p1 0.0  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.04124510908292797,4.431763546796643,0.0'}
+- 315235:
+    comments: fill 6615   rad corr 1.015  eff_p0 1.00691510209  eff_p1 -0.000928482814098  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.02300921624999431,4.462409644160476,0.0'}
+- 315258:
+    comments: fill 6616   rad corr 1.015  eff_p0 1.00700109307  eff_p1 -0.000917310584915  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.023228644731616815,4.462790735853419,0.0'}
+- 315314:
+    comments: fill 6617   rad corr 1.015  eff_p0 1.00682389406  eff_p1 -0.000948800080219  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.022610174413105966,4.462005431741563,0.0'}
+- 315334:
+    comments: fill 6618   rad corr 1.014  eff_p0 1.00729997471  eff_p1 -0.000879567940589  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.024017231480815963,4.468517789191685,0.0'}
+- 315351:
+    comments: fill 6620   rad corr 1.014  eff_p0 1.0066452057  eff_p1 -0.000972994408934  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.022178665294832606,4.465613146039954,0.0'}
+- 315356:
+    comments: fill 6621   rad corr 1.014  eff_p0 1.00822576623  eff_p1 -0.00112986845778  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01909149602940404,4.472624724544698,0.0'}
+- 315413:
+    comments: fill 6624   rad corr 1.014  eff_p0 1.00818884968  eff_p1 -0.00113834394952  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01892470440381111,4.472460957779654,0.0'}
+- 315483:
+    comments: fill 6628   rad corr 1.014  eff_p0 1.00825400413  eff_p1 -0.00112982877857  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.019092276887928337,4.472749991649948,0.0'}
+- 315499:
+    comments: fill 6629   rad corr 1.014  eff_p0 1.00831170374  eff_p1 -0.00113164900094  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01905645621138609,4.473005954866978,0.0'}
+- 315538:
+    comments: fill 6633   rad corr 1.014  eff_p0 1.0080781195  eff_p1 -0.0011608990549  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.018480836035434524,4.471969743848709,0.0'}
+- 315550:
+    comments: fill 6636   rad corr 1.014  eff_p0 1.00812170836  eff_p1 -0.00115437568364  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01860921132379857,4.472163109875401,0.0'}
+- 315634:
+    comments: fill 6638   rad corr 1.013  eff_p0 1.01004674873  eff_p1 -0.00168939883101  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.008096298973565124,4.485126048375544,0.0'}
+- 315680:
+    comments: fill 6639   rad corr 1.013  eff_p0 1.01089016519  eff_p1 -0.00151484126348  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01153825277579594,4.4888712504115915,0.0'}
+- 315696:
+    comments: fill 6640   rad corr 1.013  eff_p0 1.01098889725  eff_p1 -0.00149902870587  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01185004729471645,4.48930967144007,0.0'}
+- 315708:
+    comments: fill 6641   rad corr 1.013  eff_p0 1.01034887581  eff_p1 -0.00160381376649  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.009783878850002495,4.486467647700631,0.0'}
+- 315715:
+    comments: fill 6642   rad corr 1.012  eff_p0 1.01031754818  eff_p1 -0.00161201812871  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.009641129345433529,4.490761667908454,0.0'}
+- 315735:
+    comments: fill 6643   rad corr 1.012  eff_p0 1.01163622837  eff_p1 -0.00140801120804  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01367172397458708,4.496623071052252,0.0'}
+- 315758:
+    comments: fill 6645   rad corr 1.012  eff_p0 1.01224012827  eff_p1 -0.0013257184184  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.015297594679585393,4.499307346430688,0.0'}
+- 315764:
+    comments: fill 6646   rad corr 1.012  eff_p0 1.00483301811  eff_p1 -0.000400858609945  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.03357018545463934,4.466383473696724,0.0'}
+- 315778:
+    comments: fill 6648   rad corr 1.012  eff_p0 1.01239921401  eff_p1 -0.001708164713  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.007741547189216582,4.500014466829886,0.0'}
+- 315794:
+    comments: fill 6650   rad corr 1.012  eff_p0 1.01280893825  eff_p1 -0.00163414176691  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.009204029383272635,4.501835650583515,0.0'}
+- 315836:
+    comments: fill 6654   rad corr 1.012  eff_p0 1.01288721747  eff_p1 -0.00161516653985  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.009578925725141747,4.50218359398155,0.0'}
+- 315967:
+    comments: fill 6659   rad corr 1.011  eff_p0 1.01045398567  eff_p1 -0.00120205252877  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01777599284814014,4.495810619684559,0.0'}
+- 316053:
+    comments: fill 6662   rad corr 1.011  eff_p0 1.01202153885  eff_p1 -0.00143605603307  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.013143600918637316,4.502785130478553,0.0'}
+- 316076:
+    comments: fill 6663   rad corr 1.011  eff_p0 1.01195218106  eff_p1 -0.00144496369279  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.012967262657708508,4.5024765370229565,0.0'}
+- 316104:
+    comments: fill 6666   rad corr 1.011  eff_p0 1.01201746303  eff_p1 -0.00143318621843  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.013200412487419337,4.502766995942371,0.0'}
+- 316143:
+    comments: fill 6672   rad corr 1.01  eff_p0 1.01182727282  eff_p1 -0.00146412583196  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.012612863077842078,4.506378130388692,0.0'}
+- 316181:
+    comments: fill 6674   rad corr 1.01  eff_p0 1.01197887327  eff_p1 -0.00143328282003  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.013224648720189915,4.507053313764707,0.0'}
+- 316194:
+    comments: fill 6675   rad corr 1.01  eff_p0 1.01099236731  eff_p1 -0.00121184499271  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.017616972133522184,4.502659709231658,0.0'}
+- 316210:
+    comments: fill 6677   rad corr 1.009  eff_p0 1.01107985445  eff_p1 -0.00119869691953  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01791322451809498,4.507512234370129,0.0'}
+- 316235:
+    comments: fill 6681   rad corr 1.009  eff_p0 1.01215779243  eff_p1 -0.00130174058088  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.015865251665291524,4.512317807945569,0.0'}
+- 316264:
+    comments: fill 6683   rad corr 1.009  eff_p0 1.01203739869  eff_p1 -0.0013145013213  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.015611634415891695,4.51178107857664,0.0'}
+- 316356:
+    comments: fill 6688   rad corr 1.009  eff_p0 1.01114605386  eff_p1 -0.00146025155952  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.012714876602303048,4.507807359078619,0.0'}
+- 316371:
+    comments: fill 6690   rad corr 1.009  eff_p0 1.00800961774  eff_p1 -0.00100607213819  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.021741604816209154,4.493824760058656,0.0'}
+- 316436:
+    comments: fill 6692   rad corr 1.009  eff_p0 1.00754545424  eff_p1 -0.00108746750108  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.020123887711053685,4.491755464898345,0.0'}
+- 316451:
+    comments: fill 6693   rad corr 1.009  eff_p0 1.00967909017  eff_p1 -0.00133566493651  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.015191011654133042,4.5012674634004695,0.0'}
+- 316460:
+    comments: fill 6694   rad corr 1.008  eff_p0 1.00970940833  eff_p1 -0.00132680382658  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.0153976299518628,4.505868302502194,0.0'}
+- 316500:
+    comments: fill 6696   rad corr 1.008  eff_p0 1.01087202828  eff_p1 -0.00111023716691  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.019710394810426655,4.511056540171579,0.0'}
+- 316552:
+    comments: fill 6699   rad corr 1.008  eff_p0 1.00002190138  eff_p1 -6.90302267068e-06  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.04168247828716436,4.462637418313624,0.0'}
+- 316564:
+    comments: fill 6700   rad corr 1.008  eff_p0 1.01321390728  eff_p1 -0.00153283097743  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.011294751616626407,4.521507268140385,0.0'}
+- 316585:
+    comments: fill 6702   rad corr 1.008  eff_p0 1.01332374866  eff_p1 -0.001513057432  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.011688527149657478,4.521997439652405,0.0'}
+- 316608:
+    comments: fill 6706   rad corr 1.007  eff_p0 1.00654793529  eff_p1 -0.000747911161842  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.026979353141447976,4.496220639954753,0.0'}
+- 316654:
+    comments: fill 6709   rad corr 1.007  eff_p0 1.01177659051  eff_p1 -0.00132276456384  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.015508825096682844,4.519576892246169,0.0'}
+- 316696:
+    comments: fill 6710   rad corr 1.007  eff_p0 1.01166697813  eff_p1 -0.0013429546865  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.015105954786862975,4.519087256905126,0.0'}
+- 316710:
+    comments: fill 6711   rad corr 1.007  eff_p0 1.0120879056  eff_p1 -0.00125382536384  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01688442629208626,4.52096752779188,0.0'}
+- 316749:
+    comments: fill 6712   rad corr 1.007  eff_p0 1.01245716403  eff_p1 -0.00117877964382  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.018381875960449556,4.522616994568622,0.0'}
+- 316762:
+    comments: fill 6714   rad corr 1.006  eff_p0 1.0128384234  eff_p1 -0.0014554976383  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.012885871553375427,4.528817405241306,0.0'}
+- 316869:
+    comments: fill 6719   rad corr 1.006  eff_p0 1.01080784648  eff_p1 -0.00114061749629  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.019181434309735634,4.5197378601867,0.0'}
+- 316922:
+    comments: fill 6724   rad corr 1.006  eff_p0 1.01083155603  eff_p1 -0.00113634268926  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.019266902754192565,4.519843875349017,0.0'}
+- 316940:
+    comments: fill 6729   rad corr 1.006  eff_p0 1.01073277238  eff_p1 -0.00116216095582  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.0187507046974998,4.51940217299222,0.0'}
+- 316980:
+    comments: fill 6731   rad corr 1.005  eff_p0 1.01068559312  eff_p1 -0.00116896998524  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.018651630570954467,4.52368792277776,0.0'}
+- 316989:
+    comments: fill 6733   rad corr 1.005  eff_p0 1.0107827561  eff_p1 -0.00115233269083  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.018984930963062426,4.524122810745946,0.0'}
+- 317074:
+    comments: fill 6737   rad corr 1.005  eff_p0 1.00586489485  eff_p1 -0.000422415190255  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.03360760837649996,4.502111148870596,0.0'}
+- 317082:
+    comments: fill 6738   rad corr 1.005  eff_p0 1.01154113242  eff_p1 -0.00131502432793  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.015725675875626274,4.5275171975044,0.0'}
+- 317177:
+    comments: fill 6741   rad corr 1.005  eff_p0 1.01166617835  eff_p1 -0.00129127563314  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.016201441291153796,4.528076885676467,0.0'}
+- 317208:
+    comments: fill 6744   rad corr 1.004  eff_p0 1.01214219237  eff_p1 -0.001211749667  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01783007621844961,4.534719616934917,0.0'}
+- 317274:
+    comments: fill 6747   rad corr 1.004  eff_p0 1.01070351291  eff_p1 -0.00143039759129  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.013441100486855402,4.528273874412358,0.0'}
+- 317287:
+    comments: fill 6749   rad corr 1.004  eff_p0 1.01274300385  eff_p1 -0.00133544295016  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.015347149295099536,4.537411443861947,0.0'}
+- 317313:
+    comments: fill 6751   rad corr 1.004  eff_p0 1.01251223396  eff_p1 -0.00138541741228  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.014343999129559299,4.536377521204178,0.0'}
+- 317331:
+    comments: fill 6752   rad corr 1.004  eff_p0 1.01246010654  eff_p1 -0.00139061152178  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.014239736440569273,4.536143973749432,0.0'}
+- 317377:
+    comments: fill 6755   rad corr 1.003  eff_p0 1.01244761021  eff_p1 -0.00139171247574  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.014246001065492765,4.540610506628292,0.0'}
+- 317386:
+    comments: fill 6757   rad corr 1.003  eff_p0 1.012680965  eff_p1 -0.00134521468696  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.015181225145852425,4.54165705284785,0.0'}
+- 317430:
+    comments: fill 6759   rad corr 1.003  eff_p0 1.01022553628  eff_p1 -0.00107401411921  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.020635964139247055,4.530644981376729,0.0'}
+- 317471:
+    comments: fill 6761   rad corr 1.003  eff_p0 1.01229763245  eff_p1 -0.00144302903705  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.013213855556692472,4.539937888530968,0.0'}
+- 317505:
+    comments: fill 6762   rad corr 1.002  eff_p0 1.0122060704  eff_p1 -0.00145846089308  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.012929238252911564,4.544057718675781,0.0'}
+- 317523:
+    comments: fill 6763   rad corr 1.002  eff_p0 1.01273972108  eff_p1 -0.00135893467329  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.014935036799267554,4.546453416119524,0.0'}
+- 317587:
+    comments: fill 6768   rad corr 1.002  eff_p0 1.01255444994  eff_p1 -0.00138570049263  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.014395612699378042,4.545621685529671,0.0'}
+- 317622:
+    comments: fill 6770   rad corr 1.002  eff_p0 1.01223608466  eff_p1 -0.00145575118292  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01298384831161346,4.544192460535059,0.0'}
+- 317634:
+    comments: fill 6772   rad corr 1.002  eff_p0 1.01389895665  eff_p1 -0.00165737027445  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.008920524279411986,4.551657527704478,0.0'}
+- 317644:
+    comments: fill 6773   rad corr 1.001  eff_p0 1.01393102329  eff_p1 -0.00164469650619  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.009194287383600463,4.556348737462825,0.0'}
+- 317657:
+    comments: fill 6774   rad corr 1.001  eff_p0 1.01241253295  eff_p1 -0.00130886845024  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.015975916999546674,4.549525027189331,0.0'}
+- 317679:
+    comments: fill 6776   rad corr 1.001  eff_p0 1.01225740312  eff_p1 -0.00133190173615  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.015510788457973091,4.5488279130984965,0.0'}
+- 317690:
+    comments: fill 6778   rad corr 1.001  eff_p0 1.01172756769  eff_p1 -0.00141390150868  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01385490510930584,4.546446967116313,0.0'}
+- 317739:
+    comments: fill 6781   rad corr 1.0  eff_p0 1.01172756769  eff_p1 -0.00141390150868  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.013882628774428552,4.550993414085993,0.0'}
+- 318615:
+    comments: fill 6843   rad corr 1.0  eff_p0 1.00000506748  eff_p1 -1.08011515145e-05  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.04227319024354053,4.49826279473912,0.0'}
+- 318647:
+    comments: fill 6847   rad corr 1.0  eff_p0 0.999938669304  eff_p1 -2.0517541793e-05  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.04207658721791083,4.497964119805657,0.0'}
+- 318811:
+    comments: fill 6854   rad corr 1.0  eff_p0 1.00351630475  eff_p1 -0.000552077216713  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.03132092205956246,4.514057182683611,0.0'}
+- 318821:
+    comments: fill 6858   rad corr 1.0  eff_p0 1.00322911317  eff_p1 -0.000590300448937  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.03054750694457101,4.512765326024964,0.0'}
+- 318865:
+    comments: fill 6860   rad corr 1.0  eff_p0 1.00979575448  eff_p1 -0.00164989742321  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.009107448949419223,4.5423036546355595,0.0'}
+- 318931:
+    comments: fill 6864   rad corr 1.0  eff_p0 1.0  eff_p1 0.0  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.04249174250498927,4.498240000001897,0.0'}
+- 319072:
+    comments: fill 6874   rad corr 1.0  eff_p0 1.0  eff_p1 0.0  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.04249174250498927,4.498240000001897,0.0'}
+- 319092:
+    comments: fill 6877   rad corr 1.0  eff_p0 1.0  eff_p1 0.0  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.04249174250498927,4.498240000001897,0.0'}
+- 319168:
+    comments: fill 6882   rad corr 1.0  eff_p0 1.00428876086  eff_p1 -0.138561406857  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '-2.7611823628719523,4.517531875646715,0.0'}
+- 319182:
+    comments: fill 6884   rad corr 1.0  eff_p0 1.0  eff_p1 0.0  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.04249174250498927,4.498240000001897,0.0'}
+- 319288:
+    comments: fill 6891   rad corr 1.0  eff_p0 0.986265421031  eff_p1 0.207200581528  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '4.2350221030632635,4.436458567494852,0.0'}
+- 319333:
+    comments: fill 6901   rad corr 1.0  eff_p0 1.01020374456  eff_p1 -0.00135092777393  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.015156849594208507,4.544138891927184,0.0'}
+- 319341:
+    comments: fill 6904   rad corr 1.0  eff_p0 1.01005604412  eff_p1 -0.00137595658078  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01465041263426894,4.543474499898364,0.0'}
+- 319482:
+    comments: fill 6911   rad corr 0.999  eff_p0 1.01930397101  eff_p1 -0.00292702081585  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '-0.016767592490444298,4.589663558112283,0.0'}
+- 319519:
+    comments: fill 6912   rad corr 0.999  eff_p0 1.01202344186  eff_p1 -0.00158669434834  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01040711409569879,4.556881208318313,0.0'}
+- 319553:
+    comments: fill 6913   rad corr 0.999  eff_p0 1.01037572556  eff_p1 -0.0018866284027  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.004326043461043783,4.549461965711378,0.0'}
+- 319621:
+    comments: fill 6921   rad corr 0.998  eff_p0 1.01222690444  eff_p1 -0.00160181641457  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.010120770519170586,4.562364279187017,0.0'}
+- 319635:
+    comments: fill 6923   rad corr 0.998  eff_p0 1.01241808801  eff_p1 -0.00155972415039  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.010975889312367135,4.563225992199476,0.0'}
+- 319652:
+    comments: fill 6924   rad corr 0.998  eff_p0 1.01255016093  eff_p1 -0.00153411334438  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.011496181626300006,4.56382127845908,0.0'}
+- 319671:
+    comments: fill 6925   rad corr 0.998  eff_p0 1.01230757512  eff_p1 -0.00157116474154  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.010743469776668756,4.562727882472864,0.0'}
+- 319683:
+    comments: fill 6927   rad corr 0.998  eff_p0 1.01269467303  eff_p1 -0.00151120414733  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.011961589827055665,4.564472631268422,0.0'}
+- 319693:
+    comments: fill 6929   rad corr 0.998  eff_p0 1.01774722631  eff_p1 -0.00258904684424  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '-0.009935154486042394,4.587245774830663,0.0'}
+- 319751:
+    comments: fill 6931   rad corr 0.998  eff_p0 1.01251262049  eff_p1 -0.00150950442004  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.011996120370324364,4.563652074145225,0.0'}
+- 319834:
+    comments: fill 6939   rad corr 0.997  eff_p0 1.01169226072  eff_p1 -0.00163761999118  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.009412261369395773,4.564528179402717,0.0'}
+- 319840:
+    comments: fill 6940   rad corr 0.997  eff_p0 1.01038237932  eff_p1 -0.00118002296693  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01872715974723074,4.558618288817401,0.0'}
+- 319900:
+    comments: fill 6942   rad corr 0.997  eff_p0 1.01155778392  eff_p1 -0.00154349828198  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01132821385571203,4.563921450289097,0.0'}
+- 319937:
+    comments: fill 6944   rad corr 0.997  eff_p0 1.01170376129  eff_p1 -0.00151650704205  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.011877650682687752,4.564580067383969,0.0'}
+- 319946:
+    comments: fill 6946   rad corr 0.997  eff_p0 1.01184866914  eff_p1 -0.00149426591084  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.012330393742774592,4.565233859050216,0.0'}
+- 319987:
+    comments: fill 6953   rad corr 0.997  eff_p0 1.0120107473  eff_p1 -0.00146390150041  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.012948495221717565,4.5659651192908015,0.0'}
+- 319997:
+    comments: fill 6956   rad corr 0.996  eff_p0 1.01223614639  eff_p1 -0.0014158455746  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.013954706605058343,4.571567392704346,0.0'}
+- 320019:
+    comments: fill 6957   rad corr 0.996  eff_p0 1.01219429373  eff_p1 -0.00142475942881  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01377289060615477,4.571378373317817,0.0'}
+- 320034:
+    comments: fill 6960   rad corr 0.996  eff_p0 1.01220928531  eff_p1 -0.00142328924935  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01380287787550321,4.571446079875066,0.0'}
+- 320054:
+    comments: fill 6961   rad corr 0.996  eff_p0 1.01228123286  eff_p1 -0.00140713209858  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.014132435487342457,4.571771016971663,0.0'}
+- 320086:
+    comments: fill 6963   rad corr 0.995  eff_p0 1.01228123286  eff_p1 -0.00140713209858  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.014160856667678197,4.576365761710124,0.0'}
+- 320565:
+    comments: fill 7003   rad corr 0.995  eff_p0 1.00014053937  eff_p1 -2.65519644498e-05  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.04237719827850809,4.521479577703492,0.0'}
+- 320669:
+    comments: fill 7005   rad corr 0.995  eff_p0 1.00942944571  eff_p1 -0.00107127555211  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.021025103670176442,4.563473276256487,0.0'}
+- 320682:
+    comments: fill 7006   rad corr 0.995  eff_p0 1.00935837428  eff_p1 -0.00108161451561  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.020813795598515997,4.563151973385649,0.0'}
+- 320708:
+    comments: fill 7008   rad corr 0.995  eff_p0 1.0097482685  eff_p1 -0.00101702553736  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.022133867233260957,4.564914624423365,0.0'}
+- 320751:
+    comments: fill 7013   rad corr 0.995  eff_p0 1.00976152417  eff_p1 -0.00101500013984  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.022175262373547628,4.564974551233888,0.0'}
+- 320800:
+    comments: fill 7017   rad corr 0.995  eff_p0 1.01474544577  eff_p1 -0.00203772669544  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.00127274382070312,4.587506084407452,0.0'}
+- 320814:
+    comments: fill 7018   rad corr 0.995  eff_p0 1.01484763296  eff_p1 -0.00200262008769  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.001990253809860246,4.587968056771087,0.0'}
+- 320832:
+    comments: fill 7020   rad corr 0.994  eff_p0 1.01132012048  eff_p1 -0.00122027654226  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.018016011486071053,4.576620340796873,0.0'}
+- 320847:
+    comments: fill 7024   rad corr 0.994  eff_p0 1.01318909084  eff_p1 -0.00163180671007  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.009588212767190742,4.585078164970758,0.0'}
+- 320880:
+    comments: fill 7026   rad corr 0.994  eff_p0 0.976476783093  eff_p1 0.00393372734272  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.12356576393844798,4.418940568188942,0.0'}
+- 320910:
+    comments: fill 7031   rad corr 0.994  eff_p0 1.01348384471  eff_p1 -0.00179544191198  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.006237098674229995,4.58641204188156,0.0'}
+- 320929:
+    comments: fill 7033   rad corr 0.994  eff_p0 1.01412551528  eff_p1 -0.0016405810155  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.009408522222378268,4.589315852966838,0.0'}
+- 320967:
+    comments: fill 7035   rad corr 0.993  eff_p0 1.0139356773  eff_p1 -0.00166750847879  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.008874917958933064,4.59307756400166,0.0'}
+- 320989:
+    comments: fill 7036   rad corr 0.993  eff_p0 1.0131959109  eff_p1 -0.00178273727704  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.006510371879250593,4.589726459459978,0.0'}
+- 320998:
+    comments: fill 7037   rad corr 0.993  eff_p0 1.01446823595  eff_p1 -0.00189099030531  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.004288971695462962,4.595490027874345,0.0'}
+- 321046:
+    comments: fill 7039   rad corr 0.993  eff_p0 1.01283331188  eff_p1 -0.00139228491982  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.014522627535787338,4.588083904161454,0.0'}
+- 321062:
+    comments: fill 7040   rad corr 0.993  eff_p0 1.01525583279  eff_p1 -0.00181048077043  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.0059410630820733185,4.599057801901446,0.0'}
+- 321115:
+    comments: fill 7042   rad corr 0.992  eff_p0 1.01343702153  eff_p1 -0.00172397141751  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.007731838241679341,4.595446519882926,0.0'}
+- 321128:
+    comments: fill 7043   rad corr 0.992  eff_p0 1.00706254602  eff_p1 -0.00136228994382  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.015168673577667201,4.566541357871187,0.0'}
+- 321143:
+    comments: fill 7045   rad corr 0.992  eff_p0 1.01350966023  eff_p1 -0.00145620252393  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.013237658457758244,4.595775901240057,0.0'}
+- 321156:
+    comments: fill 7047   rad corr 0.992  eff_p0 1.01300341122  eff_p1 -0.00154351509021  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.011442351743460578,4.593480306937561,0.0'}
+- 321171:
+    comments: fill 7048   rad corr 0.991  eff_p0 1.01281417461  eff_p1 -0.00157260008597  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.010866207449403052,4.597256541676444,0.0'}
+- 321213:
+    comments: fill 7052   rad corr 0.991  eff_p0 1.01286334909  eff_p1 -0.00156908304071  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.010938670380130085,4.597479749153033,0.0'}
+- 321225:
+    comments: fill 7053   rad corr 0.991  eff_p0 1.01310759837  eff_p1 -0.00152514334196  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.011843975574861833,4.59858841906207,0.0'}
+- 321254:
+    comments: fill 7054   rad corr 0.991  eff_p0 1.01213297796  eff_p1 -0.00170770718185  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.008082548042842488,4.594164527528452,0.0'}
+- 321275:
+    comments: fill 7055   rad corr 0.991  eff_p0 1.01293098432  eff_p1 -0.00155942549075  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.011137648306528535,4.597786751670974,0.0'}
+- 321386:
+    comments: fill 7058   rad corr 0.99  eff_p0 1.01522242954  eff_p1 -0.00183692847322  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.0054311112939517256,4.612842567120373,0.0'}
+- 321410:
+    comments: fill 7061   rad corr 0.99  eff_p0 1.01496754672  eff_p1 -0.00189007179977  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.004333967393370158,4.611684461976961,0.0'}
+- 321425:
+    comments: fill 7063   rad corr 0.989  eff_p0 1.0138924857  eff_p1 -0.00161904208385  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.009949465269083652,4.611457770350411,0.0'}
+- 321453:
+    comments: fill 7065   rad corr 0.989  eff_p0 1.01368982399  eff_p1 -0.00166940757532  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.008907565985772763,4.610536009974083,0.0'}
+- 321471:
+    comments: fill 7069   rad corr 0.989  eff_p0 1.01549398895  eff_p1 -0.00191104521024  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.003908864071086445,4.618741841109774,0.0'}
+- 321705:
+    comments: fill 7078   rad corr 0.989  eff_p0 1.01531193922  eff_p1 -0.00194008470984  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.003308130653463908,4.6179138295976925,0.0'}
+- 321722:
+    comments: fill 7080   rad corr 0.988  eff_p0 1.01349379134  eff_p1 -0.00150498140611  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.012333941790221846,4.614310032341732,0.0'}
+- 321750:
+    comments: fill 7083   rad corr 0.988  eff_p0 1.01333592394  eff_p1 -0.0015477887897  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.011446601826712097,4.613591281889339,0.0'}
+- 321768:
+    comments: fill 7087   rad corr 0.988  eff_p0 1.01480987505  eff_p1 -0.00182855448299  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.005626703502032934,4.620301996302765,0.0'}
+- 321790:
+    comments: fill 7088   rad corr 0.988  eff_p0 1.0151718035  eff_p1 -0.00176766982522  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.006888761247066661,4.621949811114098,0.0'}
+- 321799:
+    comments: fill 7090   rad corr 0.988  eff_p0 1.01388351409  eff_p1 -0.00165812037264  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.009159575277327615,4.616084391114344,0.0'}
+- 321823:
+    comments: fill 7091   rad corr 0.987  eff_p0 1.01428714584  eff_p1 -0.00157317049702  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.010942612716982733,4.622600821581178,0.0'}
+- 321873:
+    comments: fill 7092   rad corr 0.987  eff_p0 1.01392988294  eff_p1 -0.00163073401744  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.009746978632324516,4.620972600444164,0.0'}
+- 321882:
+    comments: fill 7095   rad corr 0.987  eff_p0 1.01388946584  eff_p1 -0.00163593013377  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.00963905170661353,4.6207884000169575,0.0'}
+- 321902:
+    comments: fill 7097   rad corr 0.987  eff_p0 1.01485684174  eff_p1 -0.00192418138343  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.003651874123767274,4.62519720343493,0.0'}
+- 321909:
+    comments: fill 7098   rad corr 0.986  eff_p0 1.01494810558  eff_p1 -0.00190793361369  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.003997447619782284,4.63030442844383,0.0'}
+- 321927:
+    comments: fill 7099   rad corr 0.986  eff_p0 1.01504629278  eff_p1 -0.00189048393869  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.0043606249728554295,4.630752369201006,0.0'}
+- 321954:
+    comments: fill 7101   rad corr 0.986  eff_p0 1.00701327927  eff_p1 -0.000571201973271  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.031818633913469764,4.594104881691952,0.0'}
+- 321967:
+    comments: fill 7105   rad corr 0.986  eff_p0 1.01449906277  eff_p1 -0.00175167331711  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.0072496687014150015,4.628255845956881,0.0'}
+- 321983:
+    comments: fill 7108   rad corr 0.986  eff_p0 1.01459726109  eff_p1 -0.00172451991891  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.007814808125805775,4.6287038374470075,0.0'}
+- 322008:
+    comments: fill 7109   rad corr 0.985  eff_p0 1.01380697434  eff_p1 -0.00186453690509  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.0049106121424107715,4.629793994165383,0.0'}
+- 322016:
+    comments: fill 7110   rad corr 0.985  eff_p0 1.01326562253  eff_p1 -0.00154368219433  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.011602077058452837,4.627321780596856,0.0'}
+- 322036:
+    comments: fill 7112   rad corr 0.985  eff_p0 1.01260061207  eff_p1 -0.00165130923362  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.009357501762293009,4.624284849985099,0.0'}
+- 322052:
+    comments: fill 7114   rad corr 0.985  eff_p0 1.01300831569  eff_p1 -0.00159047375476  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.010626233243560679,4.626146726872581,0.0'}
+- 322063:
+    comments: fill 7117   rad corr 0.985  eff_p0 1.01325003425  eff_p1 -0.00154939459011  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.011482944333686006,4.627250592964066,0.0'}
+- 322075:
+    comments: fill 7118   rad corr 0.985  eff_p0 1.01301003091  eff_p1 -0.00158693656421  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.010700001792561918,4.626154559835828,0.0'}
+- 322102:
+    comments: fill 7120   rad corr 0.985  eff_p0 1.01302635671  eff_p1 -0.00157954118986  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.010854233244840281,4.626229115541668,0.0'}
+- 322106:
+    comments: fill 7122   rad corr 0.985  eff_p0 1.01312829116  eff_p1 -0.00155916711523  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.011279137106285206,4.626694623779641,0.0'}
+- 322174:
+    comments: fill 7123   rad corr 0.984  eff_p0 1.01301537557  eff_p1 -0.00158225531728  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.010819587333427633,4.630880368905542,0.0'}
+- 322197:
+    comments: fill 7124   rad corr 0.984  eff_p0 1.01389774457  eff_p1 -0.00173902651305  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.007543455872057892,4.63491401477345,0.0'}
+- 322248:
+    comments: fill 7125   rad corr 0.984  eff_p0 1.01386815566  eff_p1 -0.0017403758702  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.007515257634553282,4.634778752555934,0.0'}
+- 322313:
+    comments: fill 7127   rad corr 0.983  eff_p0 1.01405581219  eff_p1 -0.00169962092812  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.008383967365135034,4.640352407558225,0.0'}
+- 322327:
+    comments: fill 7128   rad corr 0.983  eff_p0 1.01204128863  eff_p1 -0.00123520751364  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.018108818598326356,4.631133882159698,0.0'}
+- 322343:
+    comments: fill 7131   rad corr 0.983  eff_p0 1.01195439615  eff_p1 -0.00125839452604  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.017623280844439614,4.630736259346173,0.0'}
+- 322350:
+    comments: fill 7132   rad corr 0.983  eff_p0 1.0120234839  eff_p1 -0.00124641617007  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.017874108504041045,4.63105240714438,0.0'}
+- 322377:
+    comments: fill 7133   rad corr 0.982  eff_p0 1.01184515477  eff_p1 -0.00127557653097  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01729866614730476,4.634951475549402,0.0'}
+- 322402:
+    comments: fill 7135   rad corr 0.982  eff_p0 1.0117457708  eff_p1 -0.0012913227315  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.016968267661268712,4.6344962281457835,0.0'}
+- 322425:
+    comments: fill 7137   rad corr 0.982  eff_p0 1.01467575461  eff_p1 -0.0018103574992  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.006077494287379958,4.647917582906135,0.0'}
+- 322476:
+    comments: fill 7139   rad corr 0.982  eff_p0 1.01460328922  eff_p1 -0.00182239758424  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.005824860271828831,4.647585641247471,0.0'}
+- 322506:
+    comments: fill 7142   rad corr 0.982  eff_p0 1.00536558797  eff_p1 -0.00027122139547  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.03837279229123107,4.605270572737172,0.0'}
+- 322595:
+    comments: fill 7144   rad corr 0.982  eff_p0 1.01296879109  eff_p1 -0.00148684436545  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.0128656873765673,4.64009850797856,0.0'}
+- 322621:
+    comments: fill 7145   rad corr 0.981  eff_p0 1.01287951719  eff_p1 -0.00150667707994  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.012474936883368844,4.644419122737468,0.0'}
+- 323355:
+    comments: fill 7211   rad corr 0.981  eff_p0 1.01208523033  eff_p1 -0.00166489361481  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.00914834824223383,4.64077703005539,0.0'}
+- 323383:
+    comments: fill 7212   rad corr 0.981  eff_p0 1.00792705556  eff_p1 -0.000791064552075  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.02752107923899793,4.621710293985382,0.0'}
+- 323406:
+    comments: fill 7213   rad corr 0.981  eff_p0 1.00756162449  eff_p1 -0.000849569887667  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.026290972758715194,4.620034660292462,0.0'}
+- 323466:
+    comments: fill 7217   rad corr 0.981  eff_p0 1.01258728731  eff_p1 -0.00148506443829  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01292935442125512,4.643079142981206,0.0'}
+- 323483:
+    comments: fill 7218   rad corr 0.981  eff_p0 1.01284330613  eff_p1 -0.00143434999455  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01399565316572087,4.644253081922502,0.0'}
+- 323509:
+    comments: fill 7220   rad corr 0.981  eff_p0 1.00011366292  eff_p1 -1.11234774082e-05  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.043919764255719224,4.5858830612547745,0.0'}
+- 323518:
+    comments: fill 7221   rad corr 0.981  eff_p0 1.01423298736  eff_p1 -0.00174429084473  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.007478978328345171,4.650625273253643,0.0'}
+- 323685:
+    comments: fill 7234   rad corr 0.98  eff_p0 1.01396145491  eff_p1 -0.0018066992182  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.006179400099538266,4.65412446422315,0.0'}
+- 323719:
+    comments: fill 7236   rad corr 0.98  eff_p0 1.01239432053  eff_p1 -0.00139999933453  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01474794630727256,4.646931253454037,0.0'}
+- 323750:
+    comments: fill 7239   rad corr 0.98  eff_p0 1.01208076278  eff_p1 -0.00145495688078  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.013590074634839357,4.645492010574412,0.0'}
+- 323771:
+    comments: fill 7240   rad corr 0.979  eff_p0 1.0121929375  eff_p1 -0.00143425243601  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.014054954652005704,4.650752563007319,0.0'}
+- 323786:
+    comments: fill 7242   rad corr 0.979  eff_p0 1.01215097441  eff_p1 -0.00144213909062  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.013888455247595414,4.650559753961527,0.0'}
+- 323837:
+    comments: fill 7245   rad corr 0.979  eff_p0 1.01210880737  eff_p1 -0.00144102715268  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.013911929967035743,4.65036600782827,0.0'}
+- 323935:
+    comments: fill 7252   rad corr 0.979  eff_p0 1.01212298966  eff_p1 -0.00143979597626  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.013937921994192642,4.650431171609185,0.0'}
+- 323971:
+    comments: fill 7253   rad corr 0.979  eff_p0 1.01186378284  eff_p1 -0.001488534096  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.012908985352405887,4.649240186436613,0.0'}
+- 324017:
+    comments: fill 7256   rad corr 0.978  eff_p0 1.01210829373  eff_p1 -0.00144292233362  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.013900302220721611,4.655118620850174,0.0'}
+- 324072:
+    comments: fill 7259   rad corr 0.978  eff_p0 1.01208028301  eff_p1 -0.00145100441427  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.013729327967129466,4.6549897875770245,0.0'}
+- 324196:
+    comments: fill 7264   rad corr 0.978  eff_p0 1.01416307112  eff_p1 -0.00188947384721  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.0044536244326774605,4.6645694202823575,0.0'}
+- 324232:
+    comments: fill 7265   rad corr 0.978  eff_p0 1.01476024602  eff_p1 -0.00179960779529  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.006354716715964172,4.667316082879207,0.0'}
+- 324241:
+    comments: fill 7266   rad corr 0.978  eff_p0 1.01295096582  eff_p1 -0.00160145879833  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01054650572873636,4.658994429949956,0.0'}
+- 324288:
+    comments: fill 7270   rad corr 0.977  eff_p0 1.01537030887  eff_p1 -0.0019873366245  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.0023882450035494925,4.674902086156209,0.0'}
+- 324306:
+    comments: fill 7271   rad corr 0.977  eff_p0 1.01067893478  eff_p1 -0.00122073925434  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.01863862211938182,4.653302366003966,0.0'}
+- 324412:
+    comments: fill 7274   rad corr 0.977  eff_p0 1.01065479827  eff_p1 -0.00122508149982  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.018546574938811452,4.653191238250104,0.0'}
+- 324608:
+    comments: fill 7304   rad corr 0.977  eff_p0 1.00492177463  eff_p1 -0.000500850471292  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.033898867799042796,4.626795622839157,0.0'}
+- 324721:
+    comments: fill 7308   rad corr 0.977  eff_p0 1.00459262681  eff_p1 -0.000554939743724  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.032752280151941426,4.625280181801963,0.0'}
+- 324742:
+    comments: fill 7309   rad corr 0.977  eff_p0 1.01404580692  eff_p1 -0.00187729169558  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.004720984019163613,4.668803900225484,0.0'}
+- 324780:
+    comments: fill 7310   rad corr 0.976  eff_p0 1.01435944133  eff_p1 -0.00179931814418  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.006386939951402112,4.675033005498979,0.0'}
+- 324828:
+    comments: fill 7314   rad corr 0.976  eff_p0 1.01419510234  eff_p1 -0.00183544801017  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.005619486644652261,4.674275591340907,0.0'}
+- 324874:
+    comments: fill 7315   rad corr 0.976  eff_p0 1.01397331685  eff_p1 -0.0018856825198  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.004552429253975765,4.673253414743144,0.0'}
+- 324891:
+    comments: fill 7317   rad corr 0.975  eff_p0 1.00605980156  eff_p1 -0.000498492009349  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.03408828285073682,4.6415368633520115,0.0'}
+- 324963:
+    comments: fill 7320   rad corr 0.975  eff_p0 1.0144248545  eff_p1 -0.00193308250974  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.003552858089958331,4.68012970000576,0.0'}
+- 324975:
+    comments: fill 7321   rad corr 0.975  eff_p0 1.01376175797  eff_p1 -0.00165181912838  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.009539581700021635,4.677070451462392,0.0'}
+- 324989:
+    comments: fill 7324   rad corr 0.975  eff_p0 1.0139976898  eff_p1 -0.00160239335246  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.010591615058226991,4.678158941704494,0.0'}
+- 325018:
+    comments: fill 7328   rad corr 0.975  eff_p0 1.01359352565  eff_p1 -0.00168177153491  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.00890204126200063,4.676294298278926,0.0'}
+- 325052:
+    comments: fill 7331   rad corr 0.974  eff_p0 1.0133024344  eff_p1 -0.00172744443317  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.007946179836060451,4.679751070343043,0.0'}
+- 325091:
+    comments: fill 7333   rad corr 0.974  eff_p0 1.01314732234  eff_p1 -0.00176338411055  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.007179628037787658,4.679034713802926,0.0'}
+- 325153:
+    comments: fill 7334   rad corr 0.974  eff_p0 1.01466903621  eff_p1 -0.00183001015505  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.005758571480057519,4.686062469649545,0.0'}
+- 325303:
+    comments: fill 7358   rad corr 0.974  eff_p0 1.00489783298  eff_p1 -0.000329648608176  slope 0.0021 from 2017 emittance analysis
+    func: poly1d
+    payload: {'coefs': '0.03775954994351628,4.640935963270129,0.0'}

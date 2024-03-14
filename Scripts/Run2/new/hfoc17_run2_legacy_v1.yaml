@@ -1,0 +1,13 @@
+applyto: lumi
+comments: 'rescaled file using rescaleNormtagNew.py yaml/hfoc17v11.yaml 841.3 830.4
+  new/hfoc17_run2_legacy_v1.yaml (prev: Using VDM (838.5 uB) and scaled to match avg.
+  integrated lumi from all detectors in VdM fill to be 841.3 uB. No linearity corrections,
+  coef is 11245.6 / 841.3 = 13.3669)'
+datasource: hfoc
+istypedefault: 0
+name: hfoc17_run2_legacy_v1.yaml
+since:
+- 293999:
+    comments: VdM xsec; no linearity (to be over-written)
+    func: poly1d
+    payload: {'coefs': '13.542356659441234,0.0'}
